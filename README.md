@@ -1,7 +1,7 @@
-# AFI-token
+# <div style="display: flex; align-items: center;">AFI-token <img src="https://alchemycoin.io/static/images/logo.png" alt="drawing" style="width:50px; margin-left: 20px"/></div>
 
 AFI, known as Alchemy Coin, is a security token launched by Ethereum Smart Contract. Anyone interested in AFI token must register an account and pass KYC in our website to join the whitelist. Only the users in whitelist have the authority to buy or transfer AFI tokens.
-![](img/new-alchemy-logo.png)
+
 ## Alchemy Coin Official Website
 
 [The journey to one of the FIRST Security Token!](https://alchemycoin.io/)
